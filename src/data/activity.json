@@ -1,0 +1,821 @@
+{
+  "items": [
+    {
+      "tags": [
+        "python",
+        "pandas",
+        "numpy",
+        "types"
+      ],
+      "owner": {
+        "account_id": 1762936,
+        "reputation": 11493,
+        "user_id": 1609514,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/1e62d27c486199ea834abd203fbb841b?s=256&d=identicon&r=PG",
+        "display_name": "Bill",
+        "link": "https://stackoverflow.com/users/1609514/bill"
+      },
+      "is_answered": false,
+      "view_count": 30,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1732208095,
+      "creation_date": 1732205177,
+      "last_edit_date": 1732205716,
+      "question_id": 79212020,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212020/how-to-write-a-generic-python-function-that-works-with-python-numpy-or-pandas-a",
+      "title": "How to write a generic Python function that works with Python, Numpy or Pandas arguments and returns the same type"
+    },
+    {
+      "tags": [
+        "c++",
+        "visual-studio",
+        "debugging"
+      ],
+      "owner": {
+        "account_id": 5457435,
+        "reputation": 25,
+        "user_id": 4340431,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-f_7Zm7FCJKE/AAAAAAAAAAI/AAAAAAAAAks/RoKpazPEm20/photo.jpg?sz=256",
+        "display_name": "Szymon Rzosinski",
+        "link": "https://stackoverflow.com/users/4340431/szymon-rzosinski"
+      },
+      "is_answered": false,
+      "view_count": 27,
+      "answer_count": 0,
+      "score": -3,
+      "last_activity_date": 1732205948,
+      "creation_date": 1732205948,
+      "question_id": 79212074,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212074/what-is-inline-frame-in-c",
+      "title": "What is Inline Frame in c++?"
+    },
+    {
+      "tags": [
+        "c++",
+        "vector"
+      ],
+      "owner": {
+        "account_id": 3710550,
+        "reputation": 1028,
+        "user_id": 3087999,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/22b7d15478863b6ed0d4ad28634b961a?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "vipcxj",
+        "link": "https://stackoverflow.com/users/3087999/vipcxj"
+      },
+      "is_answered": false,
+      "view_count": 25,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1732208051,
+      "creation_date": 1732206940,
+      "last_edit_date": 1732208051,
+      "question_id": 79212145,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212145/error-lnk1169-of-stdvectorstdbyte-destructor",
+      "title": "error LNK1169 of std::vector&lt;std::byte&gt; destructor"
+    },
+    {
+      "tags": [
+        "c"
+      ],
+      "owner": {
+        "account_id": 37769436,
+        "reputation": 1,
+        "user_id": 28418750,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/5f2a46dc10e37e4da27da1909b905ebe?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "sadek abanoub",
+        "link": "https://stackoverflow.com/users/28418750/sadek-abanoub"
+      },
+      "is_answered": false,
+      "view_count": 27,
+      "answer_count": 0,
+      "score": -3,
+      "last_activity_date": 1732209313,
+      "creation_date": 1732208345,
+      "last_edit_date": 1732209313,
+      "question_id": 79212223,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212223/how-can-i-mark-the-end-of-a-line-in-c",
+      "title": "How can I mark the end of a line in C?"
+    },
+    {
+      "tags": [
+        "python"
+      ],
+      "owner": {
+        "account_id": 34756824,
+        "reputation": 1,
+        "user_id": 26756307,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/af8e7473d4045298beaddc984e56760c?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "bhaskar vanjarapu",
+        "link": "https://stackoverflow.com/users/26756307/bhaskar-vanjarapu"
+      },
+      "is_answered": false,
+      "view_count": 29,
+      "closed_date": 1732206487,
+      "answer_count": 0,
+      "score": -7,
+      "last_activity_date": 1732206391,
+      "creation_date": 1732206391,
+      "question_id": 79212105,
+      "link": "https://stackoverflow.com/questions/79212105/what-is-encapsulation-in-python-oop-and-how-is-it-implemented",
+      "closed_reason": "Needs more focus",
+      "title": "&quot;What is encapsulation in Python OOP, and how is it implemented?&quot;"
+    },
+    {
+      "tags": [
+        "r",
+        "raster",
+        "netcdf",
+        "terra"
+      ],
+      "owner": {
+        "account_id": 12228930,
+        "reputation": 131,
+        "user_id": 8925628,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/bab3a8a92bddce7dba5657010a78b868?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Jaken",
+        "link": "https://stackoverflow.com/users/8925628/jaken"
+      },
+      "is_answered": false,
+      "view_count": 22,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1732205939,
+      "creation_date": 1732205660,
+      "question_id": 79212064,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212064/extracting-time-from-an-unconventionally-named-netcdf-using-terra",
+      "title": "Extracting time from an unconventionally-named netcdf using terra"
+    },
+    {
+      "tags": [
+        "python",
+        "sorting",
+        "alphabetical-sort"
+      ],
+      "owner": {
+        "account_id": 34919949,
+        "reputation": 1,
+        "user_id": 26861481,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/e1f39067f02fb06abace5ec8060ea25c?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Ananya",
+        "link": "https://stackoverflow.com/users/26861481/ananya"
+      },
+      "is_answered": false,
+      "view_count": 22,
+      "closed_date": 1732207740,
+      "answer_count": 1,
+      "score": -3,
+      "last_activity_date": 1732207561,
+      "creation_date": 1732206913,
+      "question_id": 79212141,
+      "link": "https://stackoverflow.com/questions/79212141/how-can-i-extract-all-unique-words-from-a-text-file-and-sort-them-alphabetically",
+      "closed_reason": "Needs more focus",
+      "title": "How can I extract all unique words from a text file and sort them alphabetically in Python"
+    },
+    {
+      "tags": [
+        "google-sheets",
+        "google-apps-script",
+        "google-drive-api"
+      ],
+      "owner": {
+        "account_id": 28780120,
+        "reputation": 1,
+        "user_id": 22041895,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AAcHTtenMJ0_bWhwK13xJiKIscwLcYubbzOlmRX_rlDQekI=k-s256",
+        "display_name": "Exeter Trees",
+        "link": "https://stackoverflow.com/users/22041895/exeter-trees"
+      },
+      "is_answered": false,
+      "view_count": 20,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1732208553,
+      "creation_date": 1732201749,
+      "last_edit_date": 1732208553,
+      "question_id": 79211786,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79211786/add-a-row-to-a-google-sheet-when-a-user-creates-a-new-file-in-a-specific-shared",
+      "title": "Add a row to a Google sheet when a user creates a new file in a specific shared drive"
+    },
+    {
+      "tags": [
+        "python",
+        "pandas",
+        "apache-spark",
+        "apache-spark-sql",
+        "azure-synapse"
+      ],
+      "owner": {
+        "account_id": 16685230,
+        "reputation": 85,
+        "user_id": 12059330,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/a93e7b43c964ed01931a14a8988bbb48?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Rana",
+        "link": "https://stackoverflow.com/users/12059330/rana"
+      },
+      "is_answered": false,
+      "view_count": 18,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1732208029,
+      "creation_date": 1732206727,
+      "last_edit_date": 1732208029,
+      "question_id": 79212130,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212130/how-to-optimize-field-calculation-for-large-dataset-in-azure-synapse-spark-noteb",
+      "title": "How to optimize field calculation for large dataset in Azure Synapse Spark notebooks with cumulative sum?"
+    },
+    {
+      "tags": [
+        "c++",
+        "matplotlib",
+        "oop"
+      ],
+      "owner": {
+        "account_id": 37768455,
+        "reputation": 1,
+        "user_id": 28418220,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/0df999a37fcc62dc6ec59744b3881935?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "shahzeb hafeez",
+        "link": "https://stackoverflow.com/users/28418220/shahzeb-hafeez"
+      },
+      "is_answered": false,
+      "view_count": 23,
+      "closed_date": 1732206323,
+      "answer_count": 0,
+      "score": -7,
+      "last_activity_date": 1732206143,
+      "creation_date": 1732206143,
+      "question_id": 79212087,
+      "link": "https://stackoverflow.com/questions/79212087/2d-and-3d-garph-plotting-software-like-desmos-in-c",
+      "closed_reason": "Not suitable for this site",
+      "title": "2d and 3d garph plotting software like desmos in c++"
+    },
+    {
+      "tags": [
+        "sql-server",
+        "azure",
+        "deployment",
+        "github-actions",
+        "azure-static-web-app"
+      ],
+      "owner": {
+        "account_id": 361559,
+        "reputation": 2970,
+        "user_id": 704238,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://i.sstatic.net/ky3Nv.jpg?s=256",
+        "display_name": "adam",
+        "link": "https://stackoverflow.com/users/704238/adam"
+      },
+      "is_answered": false,
+      "view_count": 16,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1732206799,
+      "creation_date": 1732206391,
+      "last_edit_date": 1732206799,
+      "question_id": 79212104,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212104/struggling-to-publish-new-azure-static-web-apps-from-data-api-builder",
+      "title": "Struggling to publish new Azure Static Web Apps from Data API Builder"
+    },
+    {
+      "tags": [
+        "python",
+        "pandas",
+        "api"
+      ],
+      "owner": {
+        "account_id": 37277387,
+        "reputation": 1,
+        "user_id": 28163115,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/1edaf72a8c0dc3d063026a8f3e2232ad?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Tw1ster",
+        "link": "https://stackoverflow.com/users/28163115/tw1ster"
+      },
+      "is_answered": false,
+      "view_count": 17,
+      "closed_date": 1732207037,
+      "answer_count": 0,
+      "score": -3,
+      "last_activity_date": 1732207435,
+      "creation_date": 1732206959,
+      "last_edit_date": 1732207435,
+      "question_id": 79212147,
+      "link": "https://stackoverflow.com/questions/79212147/specifc-key-from-a-json-returning-a-hash-value-from-api",
+      "closed_reason": "Not suitable for this site",
+      "title": "Specifc key from a JSON returning a hash value from API"
+    },
+    {
+      "tags": [
+        "php",
+        "mysql",
+        "undefined",
+        "sessionid"
+      ],
+      "owner": {
+        "account_id": 22544775,
+        "reputation": 1,
+        "user_id": 16734892,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AATXAJz27JIjVq9lisy5khzbTBkAxzIys9PVssv5BJsE=k-s256",
+        "display_name": "JustTuyen",
+        "link": "https://stackoverflow.com/users/16734892/justtuyen"
+      },
+      "is_answered": false,
+      "view_count": 16,
+      "closed_date": 1732205671,
+      "answer_count": 0,
+      "score": -3,
+      "last_activity_date": 1732205561,
+      "creation_date": 1732205561,
+      "question_id": 79212055,
+      "link": "https://stackoverflow.com/questions/79212055/error-about-sessionid-undefined-variable-row-in",
+      "closed_reason": "Duplicate",
+      "title": "Error about $_SESSION[&#39;id&#39;]: Undefined variable $row in"
+    },
+    {
+      "tags": [
+        "python",
+        "pandas",
+        "loops",
+        "for-loop",
+        "beautifulsoup"
+      ],
+      "owner": {
+        "account_id": 35256559,
+        "reputation": 5,
+        "user_id": 27081936,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/35641800094b3a0ff9fef1b7b1ecfd51?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "enginexray",
+        "link": "https://stackoverflow.com/users/27081936/enginexray"
+      },
+      "is_answered": false,
+      "view_count": 22,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1732207658,
+      "creation_date": 1732207658,
+      "question_id": 79212184,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212184/my-for-loop-shows-an-indentation-error-despite-all-indents-being-standardised",
+      "title": "My for loop shows an indentation error despite all indents being standardised"
+    },
+    {
+      "tags": [
+        "css",
+        "css-selectors"
+      ],
+      "owner": {
+        "account_id": 556009,
+        "reputation": 29,
+        "user_id": 1457347,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/a6f27596fe23330040ff8cec365f5531?s=256&d=identicon&r=PG",
+        "display_name": "thomp361",
+        "link": "https://stackoverflow.com/users/1457347/thomp361"
+      },
+      "is_answered": false,
+      "view_count": 16,
+      "closed_date": 1732208665,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1732207798,
+      "creation_date": 1732206773,
+      "last_edit_date": 1732207798,
+      "question_id": 79212133,
+      "link": "https://stackoverflow.com/questions/79212133/how-can-i-select-the-last-descendant-element-of-type",
+      "closed_reason": "Duplicate",
+      "title": "How can I select the last descendant element of type?"
+    },
+    {
+      "tags": [
+        "azure",
+        "azure-bicep"
+      ],
+      "owner": {
+        "account_id": 12643724,
+        "reputation": 111,
+        "user_id": 17217445,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/42ab82e82267f30dde87bde564bdd20b?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "play_something_good",
+        "link": "https://stackoverflow.com/users/17217445/play-something-good"
+      },
+      "is_answered": false,
+      "view_count": 14,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1732205206,
+      "creation_date": 1732205206,
+      "question_id": 79212024,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212024/nested-loop-in-bicep",
+      "title": "Nested loop in Bicep"
+    },
+    {
+      "tags": [
+        "python",
+        "debugging"
+      ],
+      "owner": {
+        "account_id": 34595990,
+        "reputation": 1,
+        "user_id": 26654508,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/7d82ec4fdba6ed7119ce9e715ed00532?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Roshni Senthilkumar",
+        "link": "https://stackoverflow.com/users/26654508/roshni-senthilkumar"
+      },
+      "is_answered": false,
+      "view_count": 16,
+      "closed_date": 1732207918,
+      "answer_count": 0,
+      "score": -2,
+      "last_activity_date": 1732207490,
+      "creation_date": 1732207364,
+      "last_edit_date": 1732207490,
+      "question_id": 79212164,
+      "link": "https://stackoverflow.com/questions/79212164/why-does-my-code-fail-hidden-test-cases-for-printing-consecutive-numbers",
+      "closed_reason": "Needs details or clarity",
+      "title": "Why does my code fail hidden test cases for printing consecutive numbers?"
+    },
+    {
+      "tags": [
+        "java",
+        "exception",
+        "ioexception"
+      ],
+      "owner": {
+        "account_id": 3729650,
+        "reputation": 1080,
+        "user_id": 3102471,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://www.gravatar.com/avatar/eb9223aa0145e88b0c66973b380f8b4e?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "mbmast",
+        "link": "https://stackoverflow.com/users/3102471/mbmast"
+      },
+      "is_answered": true,
+      "view_count": 16,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1732208698,
+      "creation_date": 1732207477,
+      "question_id": 79212168,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212168/java-method-declared-to-throw-ioexception-not-propagating-the-exception-up-the-c",
+      "title": "Java method declared to throw IOException not propagating the exception up the call stack"
+    },
+    {
+      "tags": [
+        "python",
+        "django",
+        "docker"
+      ],
+      "owner": {
+        "account_id": 10463842,
+        "reputation": 3899,
+        "user_id": 7713770,
+        "user_type": "registered",
+        "accept_rate": 33,
+        "profile_image": "https://i.sstatic.net/vBBxV.jpg?s=256",
+        "display_name": "mightycode Newton",
+        "link": "https://stackoverflow.com/users/7713770/mightycode-newton"
+      },
+      "is_answered": false,
+      "view_count": 13,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1732207241,
+      "creation_date": 1732205644,
+      "last_edit_date": 1732207241,
+      "question_id": 79212063,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212063/how-to-run-django-ckeditor-5-with-docker-container",
+      "title": "How to run django-ckeditor-5 with docker container?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "t-sql"
+      ],
+      "owner": {
+        "account_id": 7448996,
+        "reputation": 59,
+        "user_id": 5664369,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/8d325c88b1494af2ec5d4230b2e40313?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "DBox",
+        "link": "https://stackoverflow.com/users/5664369/dbox"
+      },
+      "is_answered": false,
+      "view_count": 28,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1732207284,
+      "creation_date": 1732206581,
+      "last_edit_date": 1732207284,
+      "question_id": 79212120,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212120/is-it-possible-to-correlate-these-tables-dynamically-or-automated-in-ms-sql-se",
+      "title": "Is it possible to correlate these tables dynamically (or automated) in MS SQL Server?"
+    },
+    {
+      "tags": [
+        "pyqt5",
+        "mysql-connector"
+      ],
+      "owner": {
+        "account_id": 26758427,
+        "reputation": 1,
+        "user_id": 20356724,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/6c55c4ef4c3abf0f27b5b71975aa0a87?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "kunozuri",
+        "link": "https://stackoverflow.com/users/20356724/kunozuri"
+      },
+      "is_answered": false,
+      "view_count": 12,
+      "answer_count": 1,
+      "score": -1,
+      "last_activity_date": 1732204956,
+      "creation_date": 1732204807,
+      "question_id": 79211996,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79211996/can-someone-fix-this-connectivity-error-in-sql",
+      "title": "Can someone fix this connectivity error in sql"
+    },
+    {
+      "tags": [
+        "java",
+        "spring-boot",
+        "spring-data-jpa",
+        "spring-data"
+      ],
+      "owner": {
+        "account_id": 16167609,
+        "reputation": 547,
+        "user_id": 11672206,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-vFBbgBuuZZA/AAAAAAAAAAI/AAAAAAAAGvI/CE0Fg_UnmRo/photo.jpg?sz=256",
+        "display_name": "Ballazx",
+        "link": "https://stackoverflow.com/users/11672206/ballazx"
+      },
+      "is_answered": false,
+      "view_count": 12,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1732206748,
+      "creation_date": 1732205134,
+      "question_id": 79212017,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212017/spring-data-jpa-foreign-key-constraint-violation-on-delete",
+      "title": "Spring Data JPA: Foreign Key Constraint Violation on Delete"
+    },
+    {
+      "tags": [
+        "java",
+        "jvm",
+        "polymorphism"
+      ],
+      "owner": {
+        "account_id": 25103591,
+        "reputation": 21,
+        "user_id": 19007903,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GhorcVnwhJd2FbG2T6vMtQIj5BtoILXNJtBVWjL=k-s256",
+        "display_name": "Younes Chakrani",
+        "link": "https://stackoverflow.com/users/19007903/younes-chakrani"
+      },
+      "is_answered": false,
+      "view_count": 13,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1732207612,
+      "creation_date": 1732207612,
+      "question_id": 79212180,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212180/how-jvm-implements-interface-polymorphism-internally",
+      "title": "How jvm implements interface polymorphism internally"
+    },
+    {
+      "tags": [
+        "python",
+        "gpu",
+        "gradient",
+        "large-language-model",
+        "training-data"
+      ],
+      "owner": {
+        "account_id": 37701607,
+        "reputation": 1,
+        "user_id": 28382136,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/6H5lJZlB.jpg?s=256",
+        "display_name": "Olena",
+        "link": "https://stackoverflow.com/users/28382136/olena"
+      },
+      "is_answered": false,
+      "view_count": 11,
+      "closed_date": 1732208946,
+      "answer_count": 0,
+      "score": -2,
+      "last_activity_date": 1732206895,
+      "creation_date": 1732206107,
+      "last_edit_date": 1732206895,
+      "question_id": 79212084,
+      "link": "https://stackoverflow.com/questions/79212084/fine-tuning-llms-on-hugging-face-with-large-datasets-python-ai-solutions",
+      "closed_reason": "Needs more focus",
+      "title": "Fine-Tuning LLMs on Hugging Face with Large Datasets / Python AI Solutions"
+    },
+    {
+      "tags": [
+        "python",
+        "excel",
+        "migration",
+        "virtual-machine",
+        "openpyxl"
+      ],
+      "owner": {
+        "account_id": 37767501,
+        "reputation": 1,
+        "user_id": 28417708,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/42882f629f86c97f79047dec12109d90?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "user28417708",
+        "link": "https://stackoverflow.com/users/28417708/user28417708"
+      },
+      "is_answered": false,
+      "view_count": 11,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1732205342,
+      "creation_date": 1732205342,
+      "question_id": 79212036,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212036/when-writing-data-to-an-excel-file-using-openpyxl-modifying-the-value-of-the-ce",
+      "title": "When writing data to an excel file using openpyxl, modifying the value of the cell causes the styling to reset. Am i doing something wrong?"
+    },
+    {
+      "tags": [
+        "r",
+        "nest",
+        "nest-rtables",
+        "nest-tern"
+      ],
+      "owner": {
+        "account_id": 37716381,
+        "reputation": 1,
+        "user_id": 28389404,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/811b82738895efcf5945a8f5bd7b647c?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Huan Lu",
+        "link": "https://stackoverflow.com/users/28389404/huan-lu"
+      },
+      "is_answered": false,
+      "view_count": 11,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1732207239,
+      "creation_date": 1732207239,
+      "question_id": 79212158,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212158/count-number-of-patient-with-percentage-with-row-wise-denominator-by-paired-colu",
+      "title": "Count number of patient with percentage with row-wise denominator by paired-column"
+    },
+    {
+      "tags": [
+        "arrays",
+        "c",
+        "initialization",
+        "dynamic-memory-allocation"
+      ],
+      "owner": {
+        "account_id": 32341808,
+        "reputation": 1,
+        "user_id": 25119486,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/e9e1f3134b5c467d6afe8f1032cc8d9f?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Therd Dollison",
+        "link": "https://stackoverflow.com/users/25119486/therd-dollison"
+      },
+      "is_answered": false,
+      "view_count": 22,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1732209017,
+      "creation_date": 1732207314,
+      "question_id": 79212161,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212161/how-do-you-initialize-values-of-a-dynamically-allocated-2d-array-in-c",
+      "title": "How do you initialize values of a dynamically allocated 2D array in C?"
+    },
+    {
+      "tags": [
+        "c++",
+        "vector",
+        "stdvector"
+      ],
+      "owner": {
+        "account_id": 951226,
+        "reputation": 148,
+        "user_id": 1290711,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d15b29720cb36114018090f22cb39cb4?s=256&d=identicon&r=PG",
+        "display_name": "Andr&#233; Caldas",
+        "link": "https://stackoverflow.com/users/1290711/andr%c3%a9-caldas"
+      },
+      "is_answered": false,
+      "view_count": 62,
+      "closed_date": 1732203820,
+      "answer_count": 0,
+      "score": -2,
+      "last_activity_date": 1732201522,
+      "creation_date": 1732201522,
+      "question_id": 79211767,
+      "link": "https://stackoverflow.com/questions/79211767/inteligent-use-of-stdvector-reserve",
+      "closed_reason": "Needs details or clarity",
+      "title": "Inteligent use of std::vector reserve"
+    },
+    {
+      "tags": [
+        "sql"
+      ],
+      "owner": {
+        "account_id": 2055421,
+        "reputation": 1898,
+        "user_id": 1833316,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/3d30feefd3ef66b14b5b64991d91a117?s=256&d=identicon&r=PG",
+        "display_name": "Tania Marinova",
+        "link": "https://stackoverflow.com/users/1833316/tania-marinova"
+      },
+      "is_answered": true,
+      "view_count": 36,
+      "answer_count": 3,
+      "score": 0,
+      "last_activity_date": 1732207660,
+      "creation_date": 1732204313,
+      "question_id": 79211957,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79211957/create-a-query-that-will-give-me-all-the-customers-that-do-not-have-an-order",
+      "title": "create a query that will give me all the customers that **do not have** an order in the last 12 months"
+    },
+    {
+      "tags": [
+        "csv",
+        "google-sheets",
+        "google-apps-script",
+        "google-drive-api",
+        "ftp"
+      ],
+      "owner": {
+        "account_id": 37758975,
+        "reputation": 9,
+        "user_id": 28412949,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/6069dd66d92d1f5f4cc61b3f812c048a?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Alejandro Moyano Gonzalez",
+        "link": "https://stackoverflow.com/users/28412949/alejandro-moyano-gonzalez"
+      },
+      "is_answered": true,
+      "view_count": 25,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1732208615,
+      "creation_date": 1732196388,
+      "last_edit_date": 1732208615,
+      "question_id": 79211415,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79211415/upload-google-sheet-with-app-script-to-ftp-server",
+      "title": "Upload Google Sheet with App Script to FTP Server"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 299
+}

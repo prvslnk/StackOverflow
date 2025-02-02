@@ -1,0 +1,809 @@
+{
+  "items": [
+      {
+          "tags": [
+              "javascript",
+              "php",
+              "yii2",
+              "chart.js"
+          ],
+          "owner": {
+              "account_id": 29507242,
+              "reputation": 1,
+              "user_id": 22612997,
+              "user_type": "registered",
+              "profile_image": "https://lh3.googleusercontent.com/a/ACg8ocInwXQbfOGYOHyZnN4dxHSaD3BtP3oWiF_RQLXxoLC2KvY=k-s256",
+              "display_name": "Najmuddin Roshenry",
+              "link": "https://stackoverflow.com/users/22612997/najmuddin-roshenry"
+          },
+          "is_answered": false,
+          "view_count": 22,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1732246463,
+          "creation_date": 1732245312,
+          "last_edit_date": 1732246463,
+          "question_id": 79213520,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213520/cannot-implicity-convert-array-to-string-sending-data-from-controller-to-c",
+          "title": "Cannot Implicity convert &#39;array&#39; to &#39;string&#39;...sending data from controller to chart js"
+      },
+      {
+          "tags": [
+              "python"
+          ],
+          "owner": {
+              "account_id": 37758757,
+              "reputation": 1,
+              "user_id": 28412821,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/102c493cb961670c2eb4052f422a5a03?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "AKSHAJ THENUA",
+              "link": "https://stackoverflow.com/users/28412821/akshaj-thenua"
+          },
+          "is_answered": false,
+          "view_count": 21,
+          "answer_count": 1,
+          "score": 0,
+          "last_activity_date": 1732246452,
+          "creation_date": 1732245965,
+          "last_edit_date": 1732246413,
+          "question_id": 79213535,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213535/how-do-i-fix-my-code-to-correctly-calculate-the-sum-of-all-even-numbers-in-a-lis",
+          "title": "How do I fix my code to correctly calculate the sum of all even numbers in a list?"
+      },
+      {
+          "tags": [
+              "linux",
+              "shell",
+              "unix",
+              "scripting"
+          ],
+          "owner": {
+              "account_id": 29937936,
+              "reputation": 1,
+              "user_id": 28424296,
+              "user_type": "registered",
+              "profile_image": "https://lh3.googleusercontent.com/a/ACg8ocIYzWKIYRTY61-j4YOhdroANeWLfNtJjao1fYhS-m66UoY=k-s256",
+              "display_name": "Cara do TI",
+              "link": "https://stackoverflow.com/users/28424296/cara-do-ti"
+          },
+          "is_answered": true,
+          "view_count": 16,
+          "answer_count": 1,
+          "score": 0,
+          "last_activity_date": 1732248715,
+          "creation_date": 1732243215,
+          "question_id": 79213467,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213467/how-to-create-a-script-that-copies-and-renames-a-file-to-a-certain-folder",
+          "title": "How to create a script that copies and renames a file to a certain folder?"
+      },
+      {
+          "tags": [
+              "c++",
+              "arrays",
+              "string",
+              "class"
+          ],
+          "owner": {
+              "account_id": 22382117,
+              "reputation": 21,
+              "user_id": 16595539,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/4792a183c5c9d6b9afb9630982725f54?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "lilof",
+              "link": "https://stackoverflow.com/users/16595539/lilof"
+          },
+          "is_answered": false,
+          "view_count": 20,
+          "answer_count": 1,
+          "score": 0,
+          "last_activity_date": 1732248031,
+          "creation_date": 1732242717,
+          "last_edit_date": 1732248031,
+          "question_id": 79213458,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213458/how-to-pass-static-string-array-to-constructor-c",
+          "title": "How to pass static string array to constructor C++?"
+      },
+      {
+          "tags": [
+              "python",
+              "python-requests",
+              "vscode-extensions"
+          ],
+          "owner": {
+              "account_id": 30338287,
+              "reputation": 1,
+              "user_id": 23249678,
+              "user_type": "registered",
+              "profile_image": "https://lh3.googleusercontent.com/a/ACg8ocKA15-lwrKnMsrURvZ4wYhBk0fnuvfXWNlEz2ioXnKY=k-s256",
+              "display_name": "Donald Law",
+              "link": "https://stackoverflow.com/users/23249678/donald-law"
+          },
+          "is_answered": false,
+          "view_count": 19,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1732247193,
+          "creation_date": 1732245116,
+          "last_edit_date": 1732247193,
+          "question_id": 79213511,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213511/how-i-can-resolve-no-module-named-requests-in-vs-code",
+          "title": "How I can resolve No module named &#39;requests&#39; in VS Code?"
+      },
+      {
+          "tags": [
+              "java",
+              "azure",
+              "azure-functions"
+          ],
+          "owner": {
+              "account_id": 3375229,
+              "reputation": 1564,
+              "user_id": 2833484,
+              "user_type": "registered",
+              "accept_rate": 81,
+              "profile_image": "https://i.sstatic.net/HaNgM.jpg?s=256",
+              "display_name": "Ramar",
+              "link": "https://stackoverflow.com/users/2833484/ramar"
+          },
+          "is_answered": false,
+          "view_count": 15,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1732245727,
+          "creation_date": 1732245727,
+          "question_id": 79213527,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213527/azure-function-binding-name-and-blob-client",
+          "title": "Azure function, binding name and blob client"
+      },
+      {
+          "tags": [
+              "sql",
+              "sqlite",
+              "connection"
+          ],
+          "owner": {
+              "account_id": 37782682,
+              "reputation": 1,
+              "user_id": 28425313,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/03a494406ed3105a1ec2fe4bd30b3b8a?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "Sebastian Gonzalez",
+              "link": "https://stackoverflow.com/users/28425313/sebastian-gonzalez"
+          },
+          "is_answered": false,
+          "view_count": 14,
+          "answer_count": 0,
+          "score": -1,
+          "last_activity_date": 1732249313,
+          "creation_date": 1732247298,
+          "last_edit_date": 1732249313,
+          "question_id": 79213567,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213567/can-someone-help-and-tell-me-what-is-wrong-with-this-code",
+          "title": "Can someone help and tell me what is wrong with this code?"
+      },
+      {
+          "tags": [
+              "r"
+          ],
+          "owner": {
+              "account_id": 34531050,
+              "reputation": 785,
+              "user_id": 26653497,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/57f0c43b7a506e62a809a0872e329884?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "farrow90",
+              "link": "https://stackoverflow.com/users/26653497/farrow90"
+          },
+          "is_answered": false,
+          "view_count": 14,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1732244941,
+          "creation_date": 1732244941,
+          "question_id": 79213509,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213509/simulating-a-random-graph-with-connected-colors",
+          "title": "Simulating a random graph with connected colors?"
+      },
+      {
+          "tags": [
+              "azure",
+              "chatbot",
+              "open-source",
+              "openai-api",
+              "conversational-ai"
+          ],
+          "owner": {
+              "account_id": 18051978,
+              "reputation": 1,
+              "user_id": 19968217,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/b14d408089a0ecebf231f7b01c6b0baa?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "Techman007",
+              "link": "https://stackoverflow.com/users/19968217/techman007"
+          },
+          "is_answered": false,
+          "view_count": 14,
+          "answer_count": 1,
+          "score": 0,
+          "last_activity_date": 1732247985,
+          "creation_date": 1732246403,
+          "question_id": 79213544,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213544/ai-chatbot-development-choosing-open-source-platforms",
+          "title": "AI Chatbot development, choosing open source platforms"
+      },
+      {
+          "tags": [
+              "python"
+          ],
+          "owner": {
+              "account_id": 30120419,
+              "reputation": 1,
+              "user_id": 25222180,
+              "user_type": "registered",
+              "profile_image": "https://lh3.googleusercontent.com/a/ACg8ocLfpge8tnzYdxt92RLXyzpD6POdZzhks6Yw5u0sF23I=k-s256",
+              "display_name": "Riano Banoet",
+              "link": "https://stackoverflow.com/users/25222180/riano-banoet"
+          },
+          "is_answered": false,
+          "view_count": 14,
+          "answer_count": 0,
+          "score": -4,
+          "last_activity_date": 1732246549,
+          "creation_date": 1732246549,
+          "question_id": 79213548,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213548/what-about-the-data-in-mechine-learning",
+          "title": "What about the data in Mechine Learning"
+      },
+      {
+          "tags": [
+              "c#",
+              "smtp",
+              "gmail"
+          ],
+          "owner": {
+              "account_id": 22267,
+              "reputation": 9431,
+              "user_id": 54760,
+              "user_type": "registered",
+              "accept_rate": 54,
+              "profile_image": "https://i.sstatic.net/a9Nf9.jpg?s=256",
+              "display_name": "xarzu",
+              "link": "https://stackoverflow.com/users/54760/xarzu"
+          },
+          "is_answered": false,
+          "view_count": 13,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1732245132,
+          "creation_date": 1732245132,
+          "question_id": 79213513,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213513/i-am-having-an-issue-with-gmail-smtp-in-a-c-program",
+          "title": "I am having an issue with GMAIL SMTP in a C# program"
+      },
+      {
+          "tags": [
+              "vba"
+          ],
+          "owner": {
+              "account_id": 37779976,
+              "reputation": 1,
+              "user_id": 28423913,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/68548a45e22eb9ab03f79e4dd6858861?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "intern444",
+              "link": "https://stackoverflow.com/users/28423913/intern444"
+          },
+          "is_answered": false,
+          "view_count": 12,
+          "answer_count": 0,
+          "score": -3,
+          "last_activity_date": 1732245495,
+          "creation_date": 1732245495,
+          "question_id": 79213523,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213523/how-do-i-run-the-vba-code-having-trouble",
+          "title": "How do I run the VBA code, having trouble"
+      },
+      {
+          "tags": [
+              "javascript",
+              "asp.net-mvc",
+              "signalr",
+              "signalr.client"
+          ],
+          "owner": {
+              "account_id": 2431414,
+              "reputation": 1793,
+              "user_id": 2122217,
+              "user_type": "registered",
+              "accept_rate": 22,
+              "profile_image": "https://www.gravatar.com/avatar/49a4ac24bbb6d7f0ecaa68cfa110cb1c?s=256&d=identicon&r=PG",
+              "display_name": "Gabriel Llorico",
+              "link": "https://stackoverflow.com/users/2122217/gabriel-llorico"
+          },
+          "is_answered": false,
+          "view_count": 11,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1732246122,
+          "creation_date": 1732246122,
+          "question_id": 79213540,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213540/pressing-back-button-still-calls-ondisconnect-signalr",
+          "title": "Pressing Back button still calls ondisconnect - SignalR"
+      },
+      {
+          "tags": [
+              "flutter",
+              "dart",
+              "just-audio",
+              "audio-service"
+          ],
+          "owner": {
+              "account_id": 20214637,
+              "reputation": 82,
+              "user_id": 14825828,
+              "user_type": "registered",
+              "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GgeskFls18nGlT7sn-Wn1dGlFxZ6jEPf3K9FS8ZUw=k-s256",
+              "display_name": "Sudip Mahanta",
+              "link": "https://stackoverflow.com/users/14825828/sudip-mahanta"
+          },
+          "is_answered": false,
+          "view_count": 11,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1732245959,
+          "creation_date": 1732245959,
+          "question_id": 79213534,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213534/how-can-i-get-amplitude-of-audio-playing-in-flutter",
+          "title": "How can I get amplitude of audio playing in flutter?"
+      },
+      {
+          "tags": [
+              "python",
+              "numpy",
+              "half-precision-float"
+          ],
+          "owner": {
+              "account_id": 19939347,
+              "reputation": 11,
+              "user_id": 15926490,
+              "user_type": "registered",
+              "profile_image": "https://lh3.googleusercontent.com/a-/AOh14Gjax_K5tmTUaLLIUscqlcvyJ63jeaQENW-X6ZV4=k-s256",
+              "display_name": "Cestimium",
+              "link": "https://stackoverflow.com/users/15926490/cestimium"
+          },
+          "is_answered": true,
+          "view_count": 27,
+          "answer_count": 1,
+          "score": 1,
+          "last_activity_date": 1732244025,
+          "creation_date": 1732242906,
+          "question_id": 79213461,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213461/what-makes-printnp-half500-2-differs-from-printfnp-half500-2",
+          "title": "What makes `print(np.half(500.2))` differs from `print(f&quot;{np.half(500.2)}&quot;)`"
+      },
+      {
+          "tags": [
+              "c++",
+              "linker",
+              "vulkan"
+          ],
+          "owner": {
+              "account_id": 32795968,
+              "reputation": 1,
+              "user_id": 25487445,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/2d3064237af165959e6068295f0d42fe?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "BizzarraK",
+              "link": "https://stackoverflow.com/users/25487445/bizzarrak"
+          },
+          "is_answered": true,
+          "view_count": 24,
+          "answer_count": 1,
+          "score": 0,
+          "last_activity_date": 1732246157,
+          "creation_date": 1732240270,
+          "last_edit_date": 1732246157,
+          "question_id": 79213412,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213412/linux-cant-find-my-directories-when-linking",
+          "title": "Linux can&#39;t find my directories when linking"
+      },
+      {
+          "tags": [
+              "node.js",
+              "google-cloud-firestore",
+              "google-cloud-functions",
+              "google-cloud-run"
+          ],
+          "owner": {
+              "account_id": 3354388,
+              "reputation": 851,
+              "user_id": 2817697,
+              "user_type": "registered",
+              "accept_rate": 77,
+              "profile_image": "https://www.gravatar.com/avatar/9bfdaf3b075bd2a5043aaf98aed0d519?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "rkh",
+              "link": "https://stackoverflow.com/users/2817697/rkh"
+          },
+          "is_answered": true,
+          "view_count": 20,
+          "answer_count": 1,
+          "score": 0,
+          "last_activity_date": 1732243328,
+          "creation_date": 1732242396,
+          "last_edit_date": 1732243130,
+          "question_id": 79213454,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213454/firestore-written-trigger-issues",
+          "title": "firestore written trigger issues"
+      },
+      {
+          "tags": [
+              "javascript",
+              "html"
+          ],
+          "owner": {
+              "account_id": 26117694,
+              "reputation": 1,
+              "user_id": 19810543,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/ced2b3fee6297e9d2847ca4305bc44fa?s=256&d=identicon&r=PG",
+              "display_name": "newtowebapp",
+              "link": "https://stackoverflow.com/users/19810543/newtowebapp"
+          },
+          "is_answered": false,
+          "view_count": 23,
+          "answer_count": 1,
+          "score": -1,
+          "last_activity_date": 1732246855,
+          "creation_date": 1732239627,
+          "last_edit_date": 1732240866,
+          "question_id": 79213392,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213392/how-to-get-true-false-or-checked-unchecked-or-1-0-from-html-checkbox",
+          "title": "How to get TRUE / FALSE or CHECKED / UNCHECKED or 1 / 0 from html checkbox"
+      },
+      {
+          "tags": [
+              "java",
+              "mysql",
+              "netbeans",
+              "desktop-application"
+          ],
+          "owner": {
+              "account_id": 37780971,
+              "reputation": 1,
+              "user_id": 28424423,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/8c2ed49332bc152df6b8c58532fc9f73?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "user28424423",
+              "link": "https://stackoverflow.com/users/28424423/user28424423"
+          },
+          "is_answered": false,
+          "view_count": 20,
+          "answer_count": 0,
+          "score": -1,
+          "last_activity_date": 1732242540,
+          "creation_date": 1732242540,
+          "question_id": 79213456,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213456/how-do-i-deploy-my-netbeans-java-desktop-application-project-for-other-devices-t",
+          "title": "How do i deploy my netbeans java desktop application project for other devices to access?"
+      },
+      {
+          "tags": [
+              "c++",
+              "language-lawyer",
+              "atomic"
+          ],
+          "owner": {
+              "account_id": 16334089,
+              "reputation": 7379,
+              "user_id": 11796722,
+              "user_type": "registered",
+              "profile_image": "https://lh6.googleusercontent.com/-hbVqmiJejgo/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rehNL7lbCriSOGqR5fVrWy6CjMYYA/photo.jpg?sz=256",
+              "display_name": "xmh0511",
+              "link": "https://stackoverflow.com/users/11796722/xmh0511"
+          },
+          "is_answered": false,
+          "view_count": 18,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1732243935,
+          "creation_date": 1732243935,
+          "question_id": 79213481,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213481/does-this-result-depend-on-out-of-thin-air-value",
+          "title": "Does this result depend on out-of-thin-air value?"
+      },
+      {
+          "tags": [
+              "azure",
+              "azure-sql-database",
+              "azure-virtual-network"
+          ],
+          "owner": {
+              "account_id": 5230660,
+              "reputation": 711,
+              "user_id": 5855178,
+              "user_type": "registered",
+              "accept_rate": 32,
+              "profile_image": "https://www.gravatar.com/avatar/a36d50bf8663af5c2023db69e00037c2?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "user5855178",
+              "link": "https://stackoverflow.com/users/5855178/user5855178"
+          },
+          "is_answered": false,
+          "view_count": 17,
+          "answer_count": 1,
+          "score": -2,
+          "last_activity_date": 1732249557,
+          "creation_date": 1732239857,
+          "last_edit_date": 1732249557,
+          "question_id": 79213400,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213400/azure-cloud-how-to-access-sql-database-hosted-in-azure-cloud-with-public-acces",
+          "title": "Azure cloud - how to access SQL database hosted in Azure cloud with public access disabled from on premises SSMS"
+      },
+      {
+          "tags": [
+              "c#",
+              "asp.net",
+              "iis",
+              "windows-server",
+              "application-pool"
+          ],
+          "owner": {
+              "account_id": 10143815,
+              "reputation": 565,
+              "user_id": 7492645,
+              "user_type": "registered",
+              "profile_image": "https://i.sstatic.net/BYqjM.jpg?s=256",
+              "display_name": "Ross Kelly",
+              "link": "https://stackoverflow.com/users/7492645/ross-kelly"
+          },
+          "is_answered": false,
+          "view_count": 17,
+          "answer_count": 0,
+          "score": -1,
+          "last_activity_date": 1732249343,
+          "creation_date": 1732239153,
+          "last_edit_date": 1732249343,
+          "question_id": 79213376,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213376/asp-net-website-constantly-requires-sign-in",
+          "title": "ASP.NET Website Constantly Requires Sign-In"
+      },
+      {
+          "tags": [
+              "r",
+              "quarto",
+              "tableofcontents"
+          ],
+          "owner": {
+              "account_id": 14530533,
+              "reputation": 111,
+              "user_id": 16435644,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/74b5f9a20000f7abaf32689454cb4a36?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "T1802173",
+              "link": "https://stackoverflow.com/users/16435644/t1802173"
+          },
+          "is_answered": false,
+          "view_count": 16,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1732243307,
+          "creation_date": 1732242915,
+          "last_edit_date": 1732243307,
+          "question_id": 79213462,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213462/how-to-loop-through-a-dataframe-to-create-a-table-of-contents-in-quarto",
+          "title": "How to loop through a dataframe to create a table of contents in quarto"
+      },
+      {
+          "tags": [
+              "c#",
+              "inheritance",
+              "entity-framework-core",
+              ".net-9.0"
+          ],
+          "owner": {
+              "account_id": 191027,
+              "reputation": 14663,
+              "user_id": 938668,
+              "user_type": "registered",
+              "accept_rate": 96,
+              "profile_image": "https://i.sstatic.net/iEBVp.jpg?s=256",
+              "display_name": "Raheel Khan",
+              "link": "https://stackoverflow.com/users/938668/raheel-khan"
+          },
+          "is_answered": false,
+          "view_count": 16,
+          "answer_count": 1,
+          "score": 0,
+          "last_activity_date": 1732249461,
+          "creation_date": 1732240604,
+          "last_edit_date": 1732249461,
+          "question_id": 79213418,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213418/ignoring-a-base-type-in-entity-framework-core-9-code-first",
+          "title": "Ignoring a base type in Entity Framework Core 9 code-first"
+      },
+      {
+          "tags": [
+              "python",
+              "list",
+              "singleton"
+          ],
+          "owner": {
+              "account_id": 37680332,
+              "reputation": 1,
+              "user_id": 28370211,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/5d6c023fb0f27cb173bb23cff4937408?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "BhavaniAsritha1224",
+              "link": "https://stackoverflow.com/users/28370211/bhavaniasritha1224"
+          },
+          "is_answered": false,
+          "view_count": 18,
+          "closed_date": 1732244508,
+          "answer_count": 0,
+          "score": -5,
+          "last_activity_date": 1732243758,
+          "creation_date": 1732243758,
+          "question_id": 79213478,
+          "link": "https://stackoverflow.com/questions/79213478/what-are-lists-in-python",
+          "closed_reason": "Needs more focus",
+          "title": "what are lists in python"
+      },
+      {
+          "tags": [
+              "linux",
+              "cuda",
+              "gpu"
+          ],
+          "owner": {
+              "account_id": 37781332,
+              "reputation": 1,
+              "user_id": 28424605,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/42bbbc4176c3808a096f9a03793383ee?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "최찬우",
+              "link": "https://stackoverflow.com/users/28424605/%ec%b5%9c%ec%b0%ac%ec%9a%b0"
+          },
+          "is_answered": false,
+          "view_count": 14,
+          "answer_count": 0,
+          "score": -1,
+          "last_activity_date": 1732243390,
+          "creation_date": 1732243260,
+          "last_edit_date": 1732243390,
+          "question_id": 79213469,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213469/grant-gpu-permissions-on-linux-server",
+          "title": "grant gpu permissions on linux server"
+      },
+      {
+          "tags": [
+              "swift",
+              "swiftui"
+          ],
+          "owner": {
+              "account_id": 19039530,
+              "reputation": 16941,
+              "user_id": 13899957,
+              "user_type": "registered",
+              "profile_image": "https://i.sstatic.net/zijZN.png?s=256",
+              "display_name": "swiftPunk",
+              "link": "https://stackoverflow.com/users/13899957/swiftpunk"
+          },
+          "is_answered": false,
+          "view_count": 13,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1732240916,
+          "creation_date": 1732240916,
+          "question_id": 79213429,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213429/how-can-i-match-the-fixed-range-of-a-slider-to-a-dynamic-range-in-swiftui",
+          "title": "How can I match the fixed range of a slider to a dynamic range in SwiftUI?"
+      },
+      {
+          "tags": [
+              "rust",
+              "rust-cargo",
+              "tauri"
+          ],
+          "owner": {
+              "account_id": 3217958,
+              "reputation": 3042,
+              "user_id": 2716095,
+              "user_type": "registered",
+              "accept_rate": 60,
+              "profile_image": "https://www.gravatar.com/avatar/ca9e9798ce861968d24a17787c1b15f4?s=256&d=identicon&r=PG",
+              "display_name": "marcelo.delta",
+              "link": "https://stackoverflow.com/users/2716095/marcelo-delta"
+          },
+          "is_answered": false,
+          "view_count": 12,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1732243969,
+          "creation_date": 1732243969,
+          "question_id": 79213484,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213484/the-sqlite-used-in-tauri-2-is-there-any-security-barrier-to-accessing-the-conten",
+          "title": "The SQLite used in tauri 2 is there any security barrier to accessing the content?"
+      },
+      {
+          "tags": [
+              "google-sheets",
+              "google-sheets-formula"
+          ],
+          "owner": {
+              "account_id": 1401970,
+              "reputation": 7716,
+              "user_id": 1330560,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/38ea833bd967a86d85d7ffa9cbb6c38d?s=256&d=identicon&r=PG",
+              "display_name": "Tedinoz",
+              "link": "https://stackoverflow.com/users/1330560/tedinoz"
+          },
+          "is_answered": false,
+          "view_count": 11,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1732241531,
+          "creation_date": 1732241531,
+          "question_id": 79213442,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213442/can-a-label-in-a-google-sheets-query-be-dynamic-can-it-reference-a-variable",
+          "title": "Can a label in a Google Sheets Query be dynamic; can it reference a variable?"
+      },
+      {
+          "tags": [
+              "xml",
+              "xpath"
+          ],
+          "owner": {
+              "account_id": 29923081,
+              "reputation": 3,
+              "user_id": 22931760,
+              "user_type": "registered",
+              "profile_image": "https://lh3.googleusercontent.com/a/ACg8ocISB4Rwrgck9VF82yefkXRVO00th2M8cRKJNsNOjEJ33i0=k-s256",
+              "display_name": "JPO",
+              "link": "https://stackoverflow.com/users/22931760/jpo"
+          },
+          "is_answered": false,
+          "view_count": 11,
+          "answer_count": 1,
+          "score": 0,
+          "last_activity_date": 1732245200,
+          "creation_date": 1732239205,
+          "question_id": 79213378,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213378/what-is-the-xpath-query-to-return-a-defined-element",
+          "title": "What is the XPath query to return a defined element"
+      }
+  ],
+  "has_more": true,
+  "backoff": 10,
+  "quota_max": 300,
+  "quota_remaining": 280
+}
